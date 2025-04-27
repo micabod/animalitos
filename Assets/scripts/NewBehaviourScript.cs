@@ -41,3 +41,14 @@ public class NewBehaviourScript : MonoBehaviour
         
     }
 }
+/*
+
+Usás Y (&&) cuando quieras que todas las condiciones se cumplan al mismo tiempo para hacer algo.
+
+Usás O (||) cuando quiera que se cumpla al menos una condición para hacer algo.
+
+Ejemplo:
+
+Y (&&): "Quiero entrar al cine si tengo entrada y DNI" (necesitás las dos cosas).
+
+O (||): "Me voy a quedar en casa si llueve o hace mucho frío" (con que pase una sola cosa, ya me quedo).
